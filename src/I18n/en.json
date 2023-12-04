@@ -1,0 +1,18 @@
+{
+    "translation": {
+        "language": "Language",
+        "navbar": {
+            "one": "Home",
+            "two": "Services",
+            "three": "Portfolio",
+            "four": "About us",
+            "six": "Connection"
+        },
+        "homeview": {
+            "one": "Build the future with advanced technologies and solutions",
+            "two": "Based on the needs of customers, we offer services",
+            "three": "Is there a business? Contact us",
+            "four": "Companies that grow with us"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "translation": {
+        "language": "Til",
+        "navbar": {
+            "one": "Bosh sahifa",
+            "two": "Xizmatlar",
+            "three": "Portfolio",
+            "four": "Biz haqimizda",
+            "six": "Bog'lanish"
+        },
+        "homeview": {
+            "one": "Kelajakni ilg'or texnologiyalar va yechimlar bilan quring",
+            "two": "Mijozlar ehtiyojidan kelib chiqqan holda, xizmatlar taklif qilamiz",
+            "three": "Biznesingiz bormi? Biz bilan bog’laning",
+            "four": "Biz bilan o’sayotgan kompaniyalar"
+        }
+    }
+}
