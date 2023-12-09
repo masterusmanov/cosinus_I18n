@@ -13,6 +13,68 @@
             "two": "Mijozlar ehtiyojidan kelib chiqqan holda, xizmatlar taklif qilamiz",
             "three": "Biznesingiz bormi? Biz bilan bog’laning",
             "four": "Biz bilan o’sayotgan kompaniyalar"
+        },
+        "homeviewTwo": {
+            "one": "Biz nimani taklif qilamiz?",
+            "two": "Innovatsion yondashuv, ajoyib natijalar",
+            "three": "Tajriba, hamkorlik va ilg'or texnologiyalar uyg'unligi orqali biz mijozlarimiz uchun muvaffaqiyatga olib keladigan transformatsion yechimlarni yaratamiz",
+            "card": {
+                "one": "Texnik ekspertiza",
+                "ones": "Bizning jamoa texnologiya sohasida yuqori darajadagi bilim, ko'nikma va tajribaga ega",
+                "two": "Jamoaviy ish",
+                "twos": "Umumiy maqsadlarga erishish uchun birgalikda ishlash va g’oya almashish ko’nikmasi mavjudligi",
+                "three": "Samaralilik va aniqlik",
+                "threes": "Resurslardan optimal foydalanish va ish faoliyatini yaxshilash mahoratiga egaligi"
+            }
+        },
+        "homeviewthree": {
+            "one": "Mijozlarimiz fikrlari",
+            "two": "Mijozlarning sharhlari: mijozlarimiz nima deyishini tinglang",
+            "three": "Mijozlarimiz biz bilan ishlash tajribasi haqida nima deyishini bilib oling. Ularning sharhlarini o'qing va bizning yechimlarimiz ularning biznesiga qanday ijobiy ta'sir ko'rsatganini bilib oling",
+            "card": {
+                "one": {
+                    "one": "Samadov Nodirbek",
+                    "two": "Arxitektor, 3D dizayner",
+                    "three": "Men uzoq vaqtdan beri Cosinus xizmatlaridan foydalanaman. Ular sizning biznesingiz uchun maqbul bo'lgan eng yaxshi veb-sayt va mobil ilovalarni ishlab chiqish imkoniyatlari va echimlarini taklif qilishadi. O‘ylaymanki, hamkorligimiz uzoq yillar davom etadi."
+                },
+                "two": {
+                    "one": "Begzod Turopov",
+                    "two": "Huquqshunos",
+                    "three": "Men uzoq vaqtdan beri Cosinus-ning sodiq foydalanuvchisiman. Ular veb-saytlar va mobil ilovalarni ishlab chiqish bo'yicha yuqori xizmatlarni taqdim etadi va biznes ehtiyojlaringizga moslashtirilgan zamonaviy echimlarni taklif qiladi."
+                },
+                "three": {
+                    "one": "Narzulloyev Asadbek",
+                    "two": "Fermer",
+                    "three": "Men Cosinusning doimiy mijoziman. Ular menga veb-saytlar va mobil ilovalarni ishlab chiqish uchun eng yaxshi variantlarni ko'rsatadilar va o'z bizneslari uchun mukammal echimlarni taklif qilishadi. Cosinus kompaniyasi xizmatlaridan ham foydalanishingizni tavsiya qilaman."
+                }
+            }
+        },
+        "homeviewfour": {
+            "one": "Bizning ish tartibimiz",
+            "two": "Innovatsion sayohat: kontseptsiyadan amalga oshirishgacha",
+            "three": "IT-autsorsing kompaniyalari oʻz mijozlarining ehtiyojlaridan kelib chiqqan holda turli xizmatlarni taklif qiladi.",
+            "card": {
+                "one": {
+                    "one": "Tahlil va g’oya",
+                    "two": "Ushbu boʻlimda raqobatchilar tahlil qilinadi, bozor oʻrganib chiqiladi. Va proyektning dastlabki g'oyalari shakllantiriladi"
+                },
+                "two": {
+                    "one": "Auditoriya",
+                    "two": "Maqsadli auditoriya tanlanadi, talablari oʻrganilib chiqilgach, ularning ehtiyojlari aniqlanadi"
+                },
+                "three": {
+                    "one": "Strategiya",
+                    "two": "Qilinishi kerak boʻlgan ishlar aniqlanadi, ularning ketma-ketligi tuzib olinadi yaʼni asosiy reja tuziladi"
+                },
+                "four": {
+                    "one": "Rivojlanish",
+                    "two": "Reja asosida bajarilishi kerak boʻlgan ishlar amalga oshiriladi va proyekt muvaffaqiyatli tugashi uchun sirli fishkalardan foydalaniladi"
+                },
+                "five": {
+                    "one": "Hamkorlarimiz",
+                    "two": "Bizga bildirgan ishonchingiz uchun tashakkur!"
+                }
+            }
         }
     }
 }

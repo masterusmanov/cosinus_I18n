@@ -13,6 +13,41 @@
             "two": "Based on the needs of customers, we offer services",
             "three": "Is there a business? Contact us",
             "four": "Companies that grow with us"
+        },
+        "homeviewTwo": {
+            "one": "What do we offer?",
+            "two": "Innovative approach, excellent results",
+            "three": "Through the combination of experience, cooperation and advanced technologies, we create transformational solutions that lead to success for our customers",
+            "card": {
+                "one": "Technical expertise",
+                "ones": "Our team has a high level of knowledge, skills and experience in the field of technology",
+                "two": "Teamwork",
+                "twos": "The presence of the skill of working together and sharing ideas to achieve common goals",
+                "three": "Efficiency and accuracy",
+                "threes": "The ability to optimally use resources and improve performance"
+            }
+        },
+        "homeviewthree": {
+            "one": "Opinions from our clients",
+            "two": "Customer Reviews: Hear what our customers have to say.",
+            "three": "Find out what our clients have to say about their experiences with us. Read their reviews and see how our solutions have positively impacted their business.",
+            "card": {
+                "one": {
+                    "one": "Samadov Nodirbek",
+                    "two": "Architect, 3D designer",
+                    "three": "I have been using Cosinus services for a long time. They offer the best options for website and mobile app development and solutions that are optimal for your business. I think that our cooperation will last for many years."
+                },
+                "two": {
+                    "one": "Begzod Turopov",
+                    "two": "Advocate",
+                    "three": "I have been a long-time user of Cosinus. They provide superior website and mobile app development services and offer state-of-the-art solutions tailored to your business needs."
+                },
+                "three": {
+                    "one": "Narzulloyev Asadbek",
+                    "two": "Farmer",
+                    "three": "I am a regular customer of Cosinus. They show me the best options for website and mobile app development and provide solutions that are perfect for their business. I recommend that you use the services of Cosinus."
+                }
+            }
         }
     }
 }
