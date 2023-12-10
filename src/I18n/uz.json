@@ -158,6 +158,27 @@
             "four": "Biz bilan ishlashga tayyormisiz?",
             "five": "Bizning jamoamiz bilan bog'laning va biz sizning g'oyalaringizni hayotga tatbiq etish uchun qanday qilib birgalikda ishlashimiz mumkinligini muhokama qilamiz. Bugun biz bilan bog'laning!",
             "six": "Bog’lanish"
+        },
+        "about": {
+            "one": "Biz sizning ishonchli maslahatchingiz va strategik hamkorimiz",
+            "two": "Portfoliomizni o'rganing va mijozlarimizga qanday yordam berganimizni bilib oling",
+            "three": "Biz birgalikda yaratamiz",
+            "four": "Biz ishonamiz",
+            "five": "“Cosinusda biz ijodkorlik va innovatsiyalar ijobiy o‘zgarishlarga olib kelishiga ishonamiz. Biz strategik aloqa, marketing va brending yechimlari orqali barcha o'lchamdagi korxonalarga o'z maqsadlariga erishishda yordam berishga ishtiyoqmandmiz.”",
+            "six": "Shoxruh Egamov",
+            "seven": "Jamoamiz bilan tanishing",
+            "eight": "Bizning tengsiz jamoamiz bilan brendingiz potentsialini oching",
+            "nine": "Biz bilan ishlashga tayyormisiz?",
+            "ten": "Biz bilan bog’laning va xizmatlarimizdan foydalaning",
+            "eleven": "Bog’lanish"
+        },
+        "connection": {
+            "one": "Bog’lanish uchun ma’lumotlar",
+            "two": "Tashkent, Yashnobod tumani, 1A Mahtumquli",
+            "three": "Ismingiz",
+            "four": "Email manzilingiz",
+            "five": "Xabaringizni yozing",
+            "six": "Yuborish"
         }
     }
 }

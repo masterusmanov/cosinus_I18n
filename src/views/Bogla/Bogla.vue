@@ -1,7 +1,7 @@
 <template>
     <div class="grid justify-center items-center gap-6 px-[24px] mx-[10px] mt-[80px] lg:mt-[100px] rounded-xl bg-[#22284B] pb-[32px] lg:w-[80%] lg:mx-auto lg:flex lg:gap-6 lg:items-start lg:p-[32px]">
         <div class=" grid gap-4 p-2 mt-[32px] lg:w-[48%] lg:mt-0 2xl:ml-[50px] 2xl:mt-[20px] 2xl:gap-[34px]">
-            <h1 class="text-white text-[20px] lg:text-[27px] font-[500]">Contact information</h1>
+            <h1 class="text-white text-[20px] lg:text-[27px] font-[500]">{{$t('translation.connection.one')}}</h1>
             <div class="flex items-center gap-3 text-white text-[16px]">
                 <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none">
                     <path d="M14 7C13.1347 7 12.2888 7.25659 11.5694 7.73732C10.8499 8.21805 10.2892 8.90133 9.95803 9.70076C9.62689 10.5002 9.54025 11.3799 9.70906 12.2285C9.87787 13.0772 10.2946 13.8567 10.9064 14.4686C11.5183 15.0804 12.2978 15.4971 13.1465 15.6659C13.9951 15.8347 14.8748 15.7481 15.6742 15.417C16.4737 15.0858 17.1569 14.5251 17.6377 13.8056C18.1184 13.0862 18.375 12.2403 18.375 11.375C18.375 10.2147 17.9141 9.10188 17.0936 8.28141C16.2731 7.46094 15.1603 7 14 7ZM14 14C13.4808 14 12.9733 13.846 12.5416 13.5576C12.1099 13.2692 11.7735 12.8592 11.5748 12.3795C11.3761 11.8999 11.3242 11.3721 11.4254 10.8629C11.5267 10.3537 11.7767 9.88596 12.1438 9.51885C12.511 9.15173 12.9787 8.90173 13.4879 8.80044C13.9971 8.69915 14.5249 8.75114 15.0045 8.94982C15.4842 9.1485 15.8942 9.48495 16.1826 9.91663C16.471 10.3483 16.625 10.8558 16.625 11.375C16.625 12.0712 16.3484 12.7389 15.8562 13.2312C15.3639 13.7234 14.6962 14 14 14ZM14 1.75C11.4482 1.75289 9.0017 2.76788 7.19729 4.57229C5.39288 6.37671 4.37789 8.82318 4.375 11.375C4.375 14.8094 5.96203 18.4494 8.96875 21.9023C10.3198 23.4627 11.8403 24.8677 13.5023 26.0914C13.6495 26.1945 13.8247 26.2498 14.0044 26.2498C14.184 26.2498 14.3593 26.1945 14.5064 26.0914C16.1654 24.8672 17.683 23.4622 19.0312 21.9023C22.0336 18.4494 23.625 14.8094 23.625 11.375C23.6221 8.82318 22.6071 6.37671 20.8027 4.57229C18.9983 2.76788 16.5518 1.75289 14 1.75ZM14 24.2813C12.192 22.8594 6.125 17.6367 6.125 11.375C6.125 9.28642 6.95468 7.28338 8.43153 5.80653C9.90838 4.32969 11.9114 3.5 14 3.5C16.0886 3.5 18.0916 4.32969 19.5685 5.80653C21.0453 7.28338 21.875 9.28642 21.875 11.375C21.875 17.6345 15.808 22.8594 14 24.2813Z" fill="url(#paint0_linear_450_3582)"/>
@@ -12,7 +12,7 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="w-[80%] lg:text-[21px]">Tashkent, Yashnabad district, Mahtumkuli 1A</h2>
+                <h2 class="w-[80%] lg:text-[21px]">{{$t('translation.connection.two')}}</h2>
             </div>
             <div class="flex items-center gap-3 text-white text-[16px]">
                 <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none">
@@ -40,10 +40,10 @@
             </div>
         </div>
         <div class="gird items-center gap-6 mt-[124px] md:mt-0 text-white md:w-[50%] lg:w-[48%] 2xl:w-[35%] 2xl:mt-[32px]">
-            <input type="text" name="name" id="name" class="w-full bg-[#45465F] rounded-xl" placeholder="Ismingiz">
-            <input type="email" name="email" id="email" class="w-full bg-[#45465F] rounded-xl mt-[32px]" placeholder="Email manzilingiz">
-            <textarea name="description" id="description" cols="30" rows="5" placeholder="Xabaringizni yozing" class="w-full bg-[#45465F] rounded-xl  mt-[32px]"></textarea>
-            <button class="bg-gradient-to-r from-[#34BCA2] to-[#1A16E9] p-0.5 rounded-lg w-full py-4 mt-[40px]">Send</button>
+            <input type="text" name="name" id="name" class="w-full bg-[#45465F] rounded-xl" :placeholder="$t('translation.connection.three')">
+            <input type="email" name="email" id="email" class="w-full bg-[#45465F] rounded-xl mt-[32px]" :placeholder="$t('translation.connection.four')">
+            <textarea name="description" id="description" cols="30" rows="5" :placeholder="$t('translation.connection.five')" class="w-full bg-[#45465F] rounded-xl  mt-[32px]"></textarea>
+            <button class="bg-gradient-to-r from-[#34BCA2] to-[#1A16E9] p-0.5 rounded-lg w-full py-4 mt-[40px]">{{$t('translation.connection.six')}}</button>
         </div>
     </div>
 </template>

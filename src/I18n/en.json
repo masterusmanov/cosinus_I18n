@@ -158,6 +158,27 @@
             "four": "Ready to work with us?",
             "five": "Contact our team and we'll discuss how we can work together to bring your ideas to life. Contact us today!",
             "six": "Connection"
+        },
+        "about": {
+            "one": "We are your trusted advisor and strategic partner",
+            "two": "Explore our portfolio and find out how we helped our customers",
+            "three": "Together we create",
+            "four": "We believe",
+            "five": "“In cosinus, we believe that creativity and innovation lead to positive changes. We are passionate about helping businesses of all sizes achieve their goals through strategic communication, marketing and branding solutions.”",
+            "six": "Shoxruh Egamov",
+            "seven": "Meet our team",
+            "eight": "Open your brand potential with our unmatched team",
+            "nine": "Are you ready to work with us?",
+            "ten": "Contact us and use our services",
+            "eleven": "Contact us"
+        },
+        "connection": {
+            "one": "Contact information",
+            "two": "Tashkent, Yashnabad district, 1A Mahtumkuli",
+            "three": "Your name",
+            "four": "Your email address",
+            "five": "Write your message",
+            "six": "Sending"
         }
     }
 }
