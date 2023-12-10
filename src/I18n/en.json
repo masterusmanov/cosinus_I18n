@@ -1,12 +1,13 @@
 {
     "translation": {
-        "language": "Language",
+        "language": "Eng",
         "navbar": {
             "one": "Home",
             "two": "Services",
             "three": "Portfolio",
             "four": "About us",
-            "six": "Connection"
+            "six": "Connection",
+            "seven": "New"
         },
         "footer": {
             "one": "Services",

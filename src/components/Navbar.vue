@@ -11,7 +11,7 @@
                     <p>Telegram bot</p>
                     <div class="flex items-center gap-1">
                         <p to="/error">Cosinus academy</p>
-                        <p id="yangi" class="text-[10px] mb-5 py-0.5 px-1">Yangi</p>
+                        <p id="yangi" class="text-[10px] mb-5 py-0.5 px-1">{{$t('translation.navbar.seven')}}</p>
                     </div>
                 </div>
             </div>
@@ -19,6 +19,12 @@
                 <div class="bg-gradient-to-r from-[#34BCA2] to-[#1A16E9] p-0.5 rounded-lg">
                     <button class="bg-[#171B3F] px-2 py-2 rounded-lg no-underline"><router-link to="/bogla" class="">{{$t('translation.navbar.six')}}</router-link></button>
                 </div>
+                <select id="countries" @change="changeLanguage" class=" bg-[#171B3F] border-[#319B9C] text-white text-md rounded-lg w-[85px] ">
+                    <option  class="hidden" value="til" :selected="selectedLanguage === 'uz'">{{$t('translation.language')}}</option>
+                    <option value="uz">O'zbek</option>
+                    <option value="ru">Русский</option>
+                    <option value="en">English</option>
+                </select>
                 <button id="dropdownDefaultButton" data-dropdown-toggle="dropdown" class="lg:hidden">
                     <i class='bx bx-menu text-[32px] text-white'></i>
                 </button>
@@ -29,13 +35,13 @@
                             <router-link to="/" class="block px-4 py-2">{{$t('translation.navbar.one')}}</router-link>
                         </li>
                         <li>
-                            <router-link to="/services" class="block px-4 py-2">Services</router-link>
+                            <router-link to="/services" class="block px-4 py-2">{{$t('translation.navbar.two')}}</router-link>
                         </li>
                         <li>
-                            <router-link to="/portfolio" class="block px-4 py-2">Portfolio</router-link>
+                            <router-link to="/portfolio" class="block px-4 py-2">{{$t('translation.navbar.three')}}</router-link>
                         </li>
                         <li>
-                            <router-link to="/about" class="block px-4 py-2">About Us</router-link>
+                            <router-link to="/about" class="block px-4 py-2">{{$t('translation.navbar.four')}}</router-link>
                         </li>
                         <li>
                             <p class="block px-4 py-2">Telegram bot</p>
@@ -45,12 +51,7 @@
                         </li>
                     </ul>
                 </div>
-                <select id="countries" @change="changeLanguage" class="hidden lg:block bg-[#171B3F] border-[#319B9C] text-white text-md rounded-lg w-[85px] ">
-                    <option  class="hidden" value="til" :selected="selectedLanguage === 'uz'">{{$t('translation.language')}}</option>
-                    <option value="uz">O'zbek</option>
-                    <option value="ru">Русский</option>
-                    <option value="en">English</option>
-                </select>
+                
             </div>
 
         </div>

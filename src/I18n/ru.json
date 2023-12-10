@@ -1,12 +1,13 @@
 {
     "translation": {
-        "language": "Язык",
+        "language": "Рус",
         "navbar": {
             "one": "Главная страница",
             "two": "Услуги",
             "three": "Портфолио",
             "four": "О нас",
-            "six": "Связь"
+            "six": "Связь",
+            "seven": "Новый"
         },
         "footer": {
             "one": "Услуги",

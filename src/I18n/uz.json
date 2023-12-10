@@ -1,12 +1,13 @@
 {
     "translation": {
-        "language": "Til",
+        "language": "O'z",
         "navbar": {
             "one": "Bosh sahifa",
             "two": "Xizmatlar",
             "three": "Portfolio",
             "four": "Biz haqimizda",
-            "six": "Bog'lanish"
+            "six": "Bog'lanish",
+            "seven": "Yangi"
         },
         "footer": {
             "one": "Xizmatlar",
