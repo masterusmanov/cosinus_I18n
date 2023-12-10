@@ -8,6 +8,13 @@
             "four": "Biz haqimizda",
             "six": "Bog'lanish"
         },
+        "footer": {
+            "one": "Xizmatlar",
+            "two": "Portfolio",
+            "three": "Biz haqimizda",
+            "four": "Bog’lanish",
+            "five": "Barcha huquqlar himoyalangan"
+        },
         "homeview": {
             "one": "Kelajakni ilg'or texnologiyalar va yechimlar bilan quring",
             "two": "Mijozlar ehtiyojidan kelib chiqqan holda, xizmatlar taklif qilamiz",
@@ -75,6 +82,82 @@
                     "two": "Bizga bildirgan ishonchingiz uchun tashakkur!"
                 }
             }
+        },
+        "homeviewfive": {
+            "one": "Biznesingizni biz bilan raqamlashtiring",
+            "two": "Jamoamiz bilan bog'laning va g'oyalaringizni hayotga tatbiq etish uchun qanday hamkorlik qilishimiz mumkinligini muhokama qilamiz. Bugun biz bilan bog'laning!",
+            "three": "Biz bilan bog’laning"
+        },
+        "servicesone": {
+            "one": "Innovatsion texnologik yechimlar raqamli asrda muvaffaqiyatga erishish kalitidir",
+            "two": "Bizning xizmatlarimizdan foydalanib o’z biznesingizni avtomatlashtiring",
+            "three": "Birgalikda yaratamiz"
+        },
+        "servicescard": {
+            "one": {
+                "one": "Malaka oshirish",
+                "two": "Biz ilmiy tayyorgarlikka ega odamlarga xizmat qila olamiz. Bizning yuqori tajribali o'qituvchilar jamoasi sizning kasbiy rivojlanishingiz uchun maxsus darslar va dasturlarni tayyorlaydi."
+            },
+            "two": {
+                "one": "Telegram bot",
+                "two": "Biz odamlarga Telegram bot xizmatlarini taqdim etishimiz mumkin. Bizning dasturiy ta'minot jamoamiz Telegram botlarini yaratish va ulardan foydalanish bo'yicha katta tajribaga ega."
+            },
+            "three": {
+                "one": "Veb-sayt",
+                "two": "Biz odamlarga veb-sayt yaratish xizmatlarini taklif qilamiz. Sizning talablaringiz va maqsadlaringizga asoslanib, biz maxsus veb-saytlar yaratishga ixtisoslashganmiz."
+            },
+            "four": {
+                "one": "Mobil ilova",
+                "two": "Swift, Kotlin, Flutter va boshqa zamonaviy ramkalar va texnologiyalardan foydalanib, biz sizning biznesingiz uchun interaktiv dizaynga ega mobil ilovalarni yaratamiz."
+            },
+            "five": {
+                "one": "Dasturiy ta'minot",
+                "two": "Biz odamlarga dasturiy ta'minot bilan xizmat qila olamiz. Bizning dasturiy mahsulotlar jamoasi eng so'nggi texnologiyalar va innovatsiyalarni qo'llab-quvvatlaydi."
+            },
+            "six": {
+                "one": "Logotip brendingi",
+                "two": "Biz odamlarga logotip dizayni xizmatlarini taklif qilishimiz mumkin. Bizning malakali dizaynerlar jamoasi sizga o'z brendingizni va identifikatoringizni yaratishda yordam berishga tayyor."
+            },
+            "seven": {
+                "one": "Autocad",
+                "two": "Bizning Autocad xizmatlarimiz texnologiyani boshqarishda sizning maqsadlaringizga moslashtirilgan, sanoatda yetakchi kompyuter yordamida loyihalash (SAPR) yechimlarini taklif etadi."
+            },
+            "eight": {
+                "one": "3D max, interyer dizayni",
+                "two": "Biz odamlarga 3D Max va interyer dizayni xizmatlarini taklif qilishimiz mumkin. Bizning hunarmandlar jamoasi eng yangi dizayn texnologiyalari va xususiyatlari bilan ishlashda mohir."
+            },
+            "btn": "Hammasini ko'rish"
+        },
+        "servicestwo": {
+            "one": "Biz bilan ishlashga tayyormisiz?",
+            "two": "Biz bilan bog’laning va xizmatlarimizdan foydalaning",
+            "three": "Bog’lanish"
+        },
+        "portfolio": {
+            "one": "Bizning portfoliomiz muvaffaqiyatli hikoyalar va ijodiy mukammallik namoyishidir",
+            "two": "Bizning portfoliomizni o'rganing va mijozlarimizga qanday yordam berganimizni bilib oling",
+            "three": "Birgalikda yaratamiz",
+            "card": {
+                "one": {
+                    "one": "Yetkazib berish xizmati uchun tayyorlangan web sayt",
+                    "two": "Web saytni ko’rish"
+                },
+                "two": {
+                    "one": "Shifoxona uchun tayyorlangan Shifo24 mobile dasturi",
+                    "two": "Mobil ilovani ko’rish"
+                },
+                "three": {
+                    "one": "Shifoxona uchun tayyorlangan Shifo24 web-sayti",
+                    "two": "Web saytni ko’rish"
+                },
+                "four": {
+                    "one": "Barbershop uchun tayyorlangan web-sayt",
+                    "two": "Web saytni ko’rish"
+                }
+            },
+            "four": "Biz bilan ishlashga tayyormisiz?",
+            "five": "Bizning jamoamiz bilan bog'laning va biz sizning g'oyalaringizni hayotga tatbiq etish uchun qanday qilib birgalikda ishlashimiz mumkinligini muhokama qilamiz. Bugun biz bilan bog'laning!",
+            "six": "Bog’lanish"
         }
     }
 }

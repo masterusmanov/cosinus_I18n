@@ -8,6 +8,13 @@
             "four": "About us",
             "six": "Connection"
         },
+        "footer": {
+            "one": "Services",
+            "two": "Portfolio",
+            "three": "About Us",
+            "four": "Connection",
+            "five": "All rights reserved"
+        },
         "homeview": {
             "one": "Build the future with advanced technologies and solutions",
             "two": "Based on the needs of customers, we offer services",
@@ -48,6 +55,109 @@
                     "three": "I am a regular customer of Cosinus. They show me the best options for website and mobile app development and provide solutions that are perfect for their business. I recommend that you use the services of Cosinus."
                 }
             }
+        },
+        "homeviewfour": {
+            "one": "Our working procedure",
+            "two": "The Innovation Journey: From Concept to Implementation",
+            "three": "IT outsourcing companies offer different services based on the needs of their clients.",
+            "card": {
+                "one": {
+                    "one": "Analysis and idea",
+                    "two": "In this section, competitors are analyzed and the market is studied. And the initial ideas of the project are formed"
+                },
+                "two": {
+                    "one": "Auditorium",
+                    "two": "The target audience is selected, their needs are determined after their requirements are studied"
+                },
+                "three": {
+                    "one": "Strategy",
+                    "two": "The tasks that need to be done are defined, their sequence is drawn up, that is, the main plan is drawn up"
+                },
+                "four": {
+                    "one": "Development",
+                    "two": "The tasks to be done are carried out according to the plan and the secret chips are used to ensure the successful completion of the project"
+                },
+                "five": {
+                    "one": "Our partners",
+                    "two": "Thank you for your trust in us!"
+                }
+            }
+        },
+        "homeviewfive": {
+            "one": "Digitize your business with us",
+            "two": "Contact our team and we'll discuss how we can work together to bring your ideas to life. Contact us today!",
+            "three": "Contact us"
+        },
+        "servicesone": {
+            "one": "Innovative technological solutions are the key to success in the digital age",
+            "two": "Automate your business using our services",
+            "three": "We create together"
+        },
+        "servicescard": {
+            "one": {
+                "one": "Training",
+                "two": "We can serve people with scientific training. Our team of highly experienced teachers prepares special lessons and programs for your professional development."
+            },
+            "two": {
+                "one": "Telegram bot",
+                "two": "We may provide Telegram bot services to people. Our software team has extensive experience in creating and using Telegram bots."
+            },
+            "three": {
+                "one": "Website",
+                "two": "We offer website building services to people. Based on your requirements and goals, we specialize in creating custom websites."
+            },
+            "four": {
+                "one": "Mobile application",
+                "two": "Using Swift, Kotlin, Flutter and other modern frameworks and technologies, we create mobile applications with interactive design for your business"
+            },
+            "five": {
+                "one": "Software",
+                "two": "We can serve people with software. Our software products team supports the latest technologies and innovations."
+            },
+            "six": {
+                "one": "Logo branding",
+                "two": "We can offer logo design services to people. Our skilled design team is ready to help you create your brand and identity."
+            },
+            "seven": {
+                "one": "Autocad",
+                "two": "Our Autocad services offer industry-leading computer-aided design (CAD) solutions in technology management, customized to meet your goals."
+            },
+            "eight": {
+                "one": "3D max, interior design",
+                "two": "We can offer people 3D Max and interior design services. Our team of craftsmen are proficient in working with the latest design technologies and features."
+            },
+            "btn": "See all"
+        },
+        "servicestwo": {
+            "one": "Ready to work with us?",
+            "two": "Contact us and use our services",
+            "three": "Connection"
+        },
+        "portfolio": {
+            "one": "Our portfolio is a showcase of success stories and creative excellence",
+            "two": "Explore our portfolio and see how we've helped our clients",
+            "three": "We create together",
+            "card": {
+                "one": {
+                    "one": "Website designed for delivery service",
+                    "two": "View the website"
+                },
+                "two": {
+                    "one": "Shifo24 mobile program prepared for the hospital",
+                    "two": "View the mobile app"
+                },
+                "three": {
+                    "one": "Shifo24 website designed for the hospital",
+                    "two": "View the website"
+                },
+                "four": {
+                    "one": "Website made for barbershop",
+                    "two": "View the website"
+                }
+            },
+            "four": "Ready to work with us?",
+            "five": "Contact our team and we'll discuss how we can work together to bring your ideas to life. Contact us today!",
+            "six": "Connection"
         }
     }
 }

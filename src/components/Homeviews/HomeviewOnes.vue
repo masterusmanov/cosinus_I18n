@@ -7,43 +7,43 @@
     
       <div class="items ">
         <div class="entry">
-          <img src="../../assets/images/brand/0.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/0.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/1.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/1.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/2.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/2.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/3.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/3.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/4.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/4.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/5.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/5.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-            <img src="../../assets/images/brand/6.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+            <img src="../../assets/images/brand/6.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/7.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/7.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/8.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/8.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/9.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/9.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/10.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/10.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/11.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/11.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
         <div class="entry">
-          <img src="../../assets/images/brand/12.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px]"/>
+          <img src="../../assets/images/brand/12.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[80px]"/>
         </div>
       </div>
     </div>
@@ -60,7 +60,6 @@
       margin: 0;
       height: calc(100vh - 8em);
       font-family: "Muli", sans-serif;
-      overflow-x: hidden;
     }
     
     h1 {
@@ -73,7 +72,6 @@
     .container {
       width: 100%;
       position: relative;
-      overflow-x: hidden;
     }
     
     .items {
@@ -82,7 +80,6 @@
       width: fit-content;
       width: max-content;
       animation: carouselAnim 20s infinite alternate linear;
-      overflow: hidden;
     }
     
     .entry {

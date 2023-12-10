@@ -105,7 +105,6 @@
       margin: 0;
       height: calc(100vh - 8em);
       font-family: "Muli", sans-serif;
-      overflow-x: hidden;
     }
     
     h1 {
@@ -118,7 +117,6 @@
     .container {
       width: 100%;
       position: relative;
-      overflow: hidden;
     }
     
     .items {
@@ -128,7 +126,6 @@
       width: fit-content;
       width: max-content;
       animation: carouselAnim 20s infinite alternate linear;
-      overflow: hidden;
     }
     
     .entry {

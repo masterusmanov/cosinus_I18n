@@ -10,10 +10,10 @@
                                     <h1 class="text-center text-[24px]">1</h1>
                                 </div>
                             </div>
-                            <h2 class="text-white text-[16px] font-[700] text-center">Analysis and idea</h2>
+                            <h2 class="text-white text-[16px] font-[700] text-center">{{$t('translation.homeviewfour.card.one.one')}}</h2>
                         </div>
                         <div class="text-white mt-[24px]">
-                            <p class="text-[16px] px-4">In this section, competitors are analyzed and the market is studied. And the initial ideas of the project are formed</p>
+                            <p class="text-[16px] px-4">{{$t('translation.homeviewfour.card.one.two')}}</p>
                         </div>
                     </div>
                 </div>
@@ -27,10 +27,10 @@
                                     <h1 class="text-center text-[24px]">2</h1>
                                 </div>
                             </div>
-                            <h2 class="text-white text-[16px] font-[700] text-center">Auditorium</h2>
+                            <h2 class="text-white text-[16px] font-[700] text-center">{{$t('translation.homeviewfour.card.two.one')}}</h2>
                         </div>
                         <div class="text-white mt-[24px]">
-                            <p class="text-[16px] px-4">The target audience is selected, their needs are determined after their requirements are studied</p>
+                            <p class="text-[16px] px-4">{{$t('translation.homeviewfour.card.one.two')}}</p>
                         </div>
                     </div>
                 </div>
@@ -44,10 +44,10 @@
                                     <h1 class="text-center text-[24px]">3</h1>
                                 </div>
                             </div>
-                            <h2 class="text-white text-[16px] font-[700] text-center">Strategy</h2>
+                            <h2 class="text-white text-[16px] font-[700] text-center">{{$t('translation.homeviewfour.card.three.one')}}</h2>
                         </div>
                         <div class="text-white mt-[24px]">
-                            <p class="text-[16px] px-4">The tasks that need to be done are defined, their sequence is drawn up, that is, the main plan is drawn up</p>
+                            <p class="text-[16px] px-4">{{$t('translation.homeviewfour.card.three.two')}}</p>
                         </div>
                     </div>
                 </div>
@@ -61,10 +61,10 @@
                                     <h1 class="text-center text-[24px]">4</h1>
                                 </div>
                             </div>
-                            <h2 class="text-white text-[16px] font-[700] text-center">Development</h2>
+                            <h2 class="text-white text-[16px] font-[700] text-center">{{$t('translation.homeviewfour.card.four.one')}}</h2>
                         </div>
                         <div class="text-white mt-[24px]">
-                            <p class="text-[16px] px-4">The tasks to be done are carried out according to the plan and the secret chips are used to ensure the successful completion of the project</p>
+                            <p class="text-[16px] px-4">{{$t('translation.homeviewfour.card.four.two')}}</p>
                         </div>
                     </div>
                 </div>
@@ -78,10 +78,10 @@
                                     <h1 class="text-center text-[24px]">5</h1>
                                 </div>
                             </div>
-                            <h2 class="text-white text-[16px] font-[700] text-center">Our partners</h2>
+                            <h2 class="text-white text-[16px] font-[700] text-center">{{$t('translation.homeviewfour.card.five.one')}}</h2>
                         </div>
                         <div class="text-white mt-[24px]">
-                            <p class="text-[16px] px-4">Thank you for your trust in us!</p>
+                            <p class="text-[16px] px-4">{{$t('translation.homeviewfour.card.five.two')}}</p>
                         </div>
                     </div>
                 </div>

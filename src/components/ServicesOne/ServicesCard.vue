@@ -12,10 +12,10 @@
                   </linearGradient>
                   </defs>
                   </svg>
-                 <h2 class="text-white text-[27px] font-[700]">Training</h2>
+                 <h2 class="text-white text-[27px] font-[700]">{{$t('translation.servicescard.one.one')}}</h2>
              </div>
              <div class="text-white mt-[20px]">
-                 <p class="text-[16px] pl-[32px]">We can serve people with scientific training. Our team of highly experienced teachers prepares special lessons and programs for your professional development.</p>
+                 <p class="text-[16px] pl-[32px]">{{$t('translation.servicescard.one.two')}}</p>
              </div>
          </div>
          <div class="h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -29,10 +29,10 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="text-white text-[27px] font-[700]">Telegram bot</h2>
+                <h2 class="text-white text-[27px] font-[700]">{{$t('translation.servicescard.two.one')}}</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">We may provide Telegram bot services to people. Our software team has extensive experience in creating and using Telegram bots.</p>
+                <p class="text-[16px] pl-[32px]">{{$t('translation.servicescard.two.two')}}</p>
             </div>
         </div>
         <div class="h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -46,10 +46,10 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="text-white text-[27px] font-[700]">Website</h2>
+                <h2 class="text-white text-[27px] font-[700]">{{$t('translation.servicescard.three.one')}}</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">We offer website building services to people. Based on your requirements and goals, we specialize in creating custom websites.</p>
+                <p class="text-[16px] pl-[32px]">{{$t('translation.servicescard.three.two')}}</p>
             </div>
         </div>
         <div class="h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -63,10 +63,10 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="text-white text-[27px] font-[700]">Mobile application</h2>
+                <h2 class="text-white text-[27px] font-[700]">{{$t('translation.servicescard.four.one')}}</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Using Swift, Kotlin, Flutter and other modern frameworks and technologies, we create mobile applications with interactive design for your business</p>
+                <p class="text-[16px] pl-[32px]">{{$t('translation.servicescard.four.two')}}</p>
             </div>
         </div>
         <div class="hidden md:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -80,10 +80,10 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="text-white text-[27px] font-[700]">Software</h2>
+                <h2 class="text-white text-[27px] font-[700]">{{$t('translation.servicescard.five.one')}}</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">We can serve people with software. Our software products team supports the latest technologies and innovations.</p>
+                <p class="text-[16px] pl-[32px]">{{$t('translation.servicescard.five.two')}}</p>
             </div>
         </div>
         <div class="hidden md:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -97,10 +97,10 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="text-white text-[27px] font-[700]">Logo branding</h2>
+                <h2 class="text-white text-[27px] font-[700]">{{$t('translation.servicescard.six.one')}}</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">We can offer logo design services to people. Our skilled design team is ready to help you create your brand and identity.</p>
+                <p class="text-[16px] pl-[32px]">{{$t('translation.servicescard.six.two')}}</p>
             </div>
         </div>
         <div class="hidden lg:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -114,10 +114,10 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="text-white text-[27px] font-[700]">Autocad</h2>
+                <h2 class="text-white text-[27px] font-[700]">{{$t('translation.servicescard.seven.one')}}</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Our Autocad services offer industry-leading computer-aided design (CAD) solutions in technology management, customized to meet your goals.</p>
+                <p class="text-[16px] pl-[32px]">{{$t('translation.servicescard.seven.two')}}</p>
             </div>
         </div>
         <div class="hidden lg:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -131,10 +131,10 @@
                     </linearGradient>
                     </defs>
                     </svg>
-                <h2 class="text-white text-[27px] font-[700]">3D max, interior design</h2>
+                <h2 class="text-white text-[27px] font-[700]">{{$t('translation.servicescard.eight.one')}}</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">We can offer people 3D Max and interior design services. Our team of craftsmen are proficient in working with the latest design technologies and features.</p>
+                <p class="text-[16px] pl-[32px]">{{$t('translation.servicescard.eight.two')}}</p>
             </div>
         </div>
      </div>
