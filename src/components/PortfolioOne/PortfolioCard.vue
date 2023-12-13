@@ -2,7 +2,7 @@
     <div class="flex flex-wrap justify-center items-center gap-6 mt-[120px]">
         <div class="w-[98%] h-[480px] mx-auto rounded-[16px] bg-gradient-to-t from-[#999FB0] to-[#242B3D] p-0.5 md:w-[47%] md:h-[485px] lg:h-[650px] 2xl:h-[740px]">
             <div class="h-[475px] rounded-[16px] bg-[#171B3F] opacity-90 p-2 md:h-[480px] lg:h-[645px] 2xl:h-[735px]">
-                <img src="../../assets/images/portfolio/dostavka.png" alt="" class="rounded-[16px] w-full">
+                <img src="../../assets/images/Portfolio/dostavka.png" alt="" class="rounded-[16px] w-full">
                 <div class="text-white font-sans font-[500] mt-[20px] ml-3 ">
                     <h2 class="text-[27px]">{{$t('translation.portfolio.card.one.one')}}</h2>
                     <a href="#" class="flex items-center gap-3 mt-[20px] " style="color: var(--Medium-Aquamarine, #36C59E);">{{$t('translation.portfolio.card.one.two')}} <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
