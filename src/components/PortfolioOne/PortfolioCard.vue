@@ -13,7 +13,7 @@
         </div>
         <div class="w-[98%] h-[520px] mx-auto rounded-[16px] bg-gradient-to-t from-[#999FB0] to-[#242B3D] p-0.5 md:w-[47%] md:h-[485px] lg:h-[650px] 2xl:h-[740px]">
             <div class="h-[515px] rounded-[16px] bg-[#171B3F] opacity-90 p-2 md:h-[480px] lg:h-[645px] 2xl:h-[735px]">
-                <img src="../../assets/images/portfolio/shifoweb.png" alt="" class="rounded-[16px] w-full">
+                <img src="../../assets/images/Portfolio/shifoweb.png" alt="" class="rounded-[16px] w-full">
                 <div class="text-white font-sans font-[500] mt-[20px] ml-3 ">
                     <h2 class="text-[27px]">{{$t('translation.portfolio.card.two.one')}}</h2>
                     <a href="#" class="flex items-center gap-3 mt-[20px] " style="color: var(--Medium-Aquamarine, #36C59E);">{{$t('translation.portfolio.card.two.two')}} <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
@@ -24,7 +24,7 @@
         </div>
         <div class="w-[98%] h-[480px] mx-auto rounded-[16px] bg-gradient-to-t from-[#999FB0] to-[#242B3D] p-0.5 md:w-[47%] md:h-[485px] lg:h-[650px] 2xl:h-[740px]">
             <div class="h-[475px] rounded-[16px] bg-[#171B3F] opacity-90 p-2 md:h-[480px] lg:h-[645px] 2xl:h-[735px]">
-                <img src="../../assets/images/portfolio/shifomobile.png" alt="" class="rounded-[16px] w-full">
+                <img src="../../assets/images/Portfolio/shifomobile.png" alt="" class="rounded-[16px] w-full">
                 <div class="text-white font-sans font-[500] mt-[20px] ml-3 ">
                     <h2 class="text-[27px]">{{$t('translation.portfolio.card.three.one')}}</h2>
                     <a href="#" class="flex items-center gap-3 mt-[20px] " style="color: var(--Medium-Aquamarine, #36C59E);">{{$t('translation.portfolio.card.three.two')}} <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
@@ -35,7 +35,7 @@
         </div>
         <div class="w-[98%] h-[480px] mx-auto rounded-[16px] bg-gradient-to-t from-[#999FB0] to-[#242B3D] p-0.5 md:w-[47%] md:h-[485px] lg:h-[650px] 2xl:h-[740px]">
             <div class="h-[475px] rounded-[16px] bg-[#171B3F] opacity-90 p-2 md:h-[480px] lg:h-[645px] 2xl:h-[735px]">
-                <img src="../../assets/images/portfolio/barbershop.png" alt="" class="rounded-[16px] w-full">
+                <img src="../../assets/images/Portfolio/barbershop.png" alt="" class="rounded-[16px] w-full">
                 <div class="text-white font-sans font-[500] mt-[20px] ml-3 ">
                     <h2 class="text-[27px]">{{$t('translation.portfolio.card.four.one')}}</h2>
                     <a href="#" class="flex items-center gap-3 mt-[20px] " style="color: var(--Medium-Aquamarine, #36C59E);">{{$t('translation.portfolio.card.four.two')}} <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
