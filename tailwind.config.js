@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        inter: ['Inter', 'sans-serif'],
+        Satoshi: ['Satoshi', 'sans-serif'],
     },
     animation: {
         'infinite-scroll': 'infinite-scroll 25s linear infinite',
