@@ -7,16 +7,16 @@
     <img src="../../assets/images/speceffect/polborder.png" alt="" class="hidden md:flex absolute w-[150px] h-[135px] mb-[20px] ml-[500px] lg:ml-[1000px] lg:mt-[15px] 2xl:ml-[1250px] 2xl:mt-[15px]">
     <img src="../../assets//images/speceffect/Shape.png" alt="" class="hidden lg:flex absolute lg:ml-[900px] lg:mt-[850px] 2xl:ml-[1175px]">
     <div class="mt-[64px] md:mt-[110px] lg:mt-[128px]">
-        <HomeviewCarusel class="md:hidden"/>
+        <!-- <HomeviewCarusel class="md:hidden"/>
         <HomeviewCaruselTwo class="hidden md:block lg:hidden"/>
-        <HomeviewCaruselThree class="hidden lg:flex"/>
+        <HomeviewCaruselThree class="hidden lg:flex"/> -->
     </div>
 </template>
 
 <script setup>
-    import HomeviewCarusel from './HomeviewCarusel.vue'
-    import HomeviewCaruselTwo from './HomeviewCaruselTwo.vue'
-    import HomeviewCaruselThree from './HomeviewCaruselThree.vue'
+    // import HomeviewCarusel from './HomeviewCarusel.vue'
+    // import HomeviewCaruselTwo from './HomeviewCaruselTwo.vue'
+    // import HomeviewCaruselThree from './HomeviewCaruselThree.vue'
 </script>
 
 <style lang="scss" scoped>
