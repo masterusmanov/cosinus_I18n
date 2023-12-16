@@ -1,7 +1,7 @@
 <template>
-    <div class="flex justify-between items-center gap-6 ">
-        <div class="w-[32%] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
-            <div class="h-[269px] rounded-[16px] bg-[#171B3F] opacity-90">
+    <div class="flex justify-between items-center gap-6 xl:px-4 2xl:px-0">
+        <div class="w-[32%] h-[310px] xl:h-[285px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+            <div id="cards" class="h-[305px] xl:h-[280px] rounded-[16px] bg-[#171B3F] opacity-90">
                 <div class="flex items-center gap-4 pl-4 pt-4">
                     <img src="../../assets//images/imageCarusel/1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:mt-[24px]">
                     <div class="text-white mt-4">
@@ -14,8 +14,8 @@
                 </div>
             </div>
         </div>
-        <div class="w-[32%] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
-            <div class="h-[269px] rounded-[16px] bg-[#171B3F] opacity-90">
+        <div class="w-[32%] h-[310px] xl:h-[285px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+            <div id="cards" class="h-[305px] xl:h-[280px] rounded-[16px] bg-[#171B3F] opacity-90">
                 <div class="flex items-center gap-4 pl-3 pt-3">
                     <img src="../../assets//images/imageCarusel/2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
                     <div class="text-white mt-4">
@@ -28,8 +28,8 @@
                 </div>
             </div>
         </div>
-        <div class="w-[32%] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
-            <div class="h-[269px] rounded-[16px] bg-[#171B3F] opacity-90">
+        <div class="w-[32%] h-[310px] xl:h-[285px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+            <div id="cards" class="h-[305px] xl:h-[280px] rounded-[16px] bg-[#171B3F] opacity-90">
                 <div class="flex items-center gap-4 pl-3 pt-3">
                     <img src="../../assets//images/imageCarusel/3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
                     <div class="text-white mt-4">
@@ -50,5 +50,7 @@
 </script>
 
 <style lang="scss" scoped>
-
+    #cards{
+        backdrop-filter: blur(24px);
+    }
 </style>
