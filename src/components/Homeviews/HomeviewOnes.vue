@@ -101,7 +101,7 @@
           transform: translate(-100%);
         }
         to {
-          transform: translate(100%);
+          transform: translate(0);
         }
       }
     }
@@ -120,7 +120,7 @@
         transform: translate(-100%);
       }
       to {
-        transform: translate(calc(100%));
+        transform: translate(calc(0));
       }
     }
     
