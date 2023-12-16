@@ -68,7 +68,6 @@
     .container {
       width: 100%;
       position: relative;
-      overflow-x: hidden;
     }
     
     .items {
@@ -92,6 +91,8 @@
     @media only screen and (max-width: 768px) {
       .items {
         animation: carouselAnim 60s infinite alternate linear;
+        overflow-x: hidden;
+
       }
       
       @keyframes carouselAnim {
