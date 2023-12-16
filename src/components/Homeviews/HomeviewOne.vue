@@ -10,7 +10,7 @@
                 <img src="../../assets/images/speceffect/right.png" alt="speceffect" class="flex md:w-[120px] md:h-[120px] lg:w-[200px] lg:h-[200px] absolute">
             </div>
         </div>
-        <div class="w-[362px] md:w-[430px] mx-auto bg-gradient-to-r from-[#34BCA2] to-[#1A16E9] p-0.5 rounded-lg text-[16px] mt-[64px] md:mt-[80px]">
+        <div class="w-[95%] md:w-[430px] mx-auto bg-gradient-to-r from-[#34BCA2] to-[#1A16E9] p-0.5 rounded-lg text-[16px] mt-[64px] md:mt-[80px]">
             <button class="bg-[#171B3F] w-[100%] px-[23px] py-[23px] md:px-[28px] md:py-[16px] rounded-lg font-[700] text-[16px] md:text-[20px]">{{$t('translation.homeview.three')}}</button>
         </div>
     </div>

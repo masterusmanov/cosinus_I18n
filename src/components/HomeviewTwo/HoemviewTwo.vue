@@ -1,10 +1,10 @@
 <template>
     <img src="../../assets/images/speceffect/rounded.png" alt="" class="hidden lg:flex absolute lg:w-[32px] lg:h-[32px] lg:mt-[46px] lg:ml-[150px]">
-    <div class="text-white m-5 mt-[128px] md:mt-[150px] lg:ml-[150px] font-Satoshi">
+    <div class="text-white m-5 mt-[128px] md:mt-[150px] xl:ml-[150px] font-Satoshi">
         <p id="yangi" class="text-[16px] font-[700] md:text-[21px] md:ml-[104px] lg:ml-[128px]">{{$t('translation.homeviewTwo.one')}}</p>
         <img src="../../assets/images/speceffect/rounded.png" alt="" class="hidden lg:flex absolute lg:w-[64px] md:h-[64px] lg:mt-[300px] lg:ml-[900px] 2xl:mt-[220px] 2xl:ml-[1197px]">
-        <h2 class="text-[27px] md:text-[36px] lg:text-[61px] font-[900] font-Satoshi mt-[18px] md:ml-[104px] lg:ml-[128px] lg:w-[60%]">{{$t('translation.homeviewTwo.two')}}</h2>
-        <p class="text-[16px] md:text-[21px] mt-[32px] md:ml-[104px] lg:ml-[128px] lg:w-[50%]">{{$t('translation.homeviewTwo.three')}}</p>
+        <h2 class="text-[27px] md:text-[36px] lg:text-[61px] font-[900] font-Satoshi mt-[18px] md:ml-[104px] lg:ml-[128px] 2xl:w-[60%]">{{$t('translation.homeviewTwo.two')}}</h2>
+        <p class="text-[16px] md:text-[21px] mt-[32px] md:ml-[104px] lg:ml-[128px] xl:w-[50%]">{{$t('translation.homeviewTwo.three')}}</p>
     </div>
     <img src="../../assets/images/speceffect/rounded.png" alt="" class="hidden lg:flex absolute lg:w-[48px] md:h-[48px] lg:mt-[15px] lg:ml-[350px]">
     <img src="../../assets/images/speceffect/border.png" alt="" class="hidden md:flex absolute  w-[120px] h-[124px] md:ml-[430px] md:mt-[20px] lg:ml-[750px] 2xl:ml-[910px] lg:mt-[300px]">

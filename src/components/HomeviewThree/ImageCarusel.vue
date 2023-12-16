@@ -1,5 +1,5 @@
 <template>
-    <div id="default-carousel" class="relative w-full" data-carousel="slide">
+    <div id="default-carousel" class="relative w-full font-Satoshi" data-carousel="slide">
         <div class="relative h-[350px] overflow-hidden rounded-lg">
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <div class="w-[98%] h-[280px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
