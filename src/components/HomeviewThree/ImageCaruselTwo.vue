@@ -1,98 +1,98 @@
-        <template>
-    <div class="container">
-      <div class="faders">
-        <div class="left"></div>
-        <div class="right"></div>
-      </div>
-    
-      <div class="items ">
+<template>
+        <div class="container">
+          <div class="faders">
+            <div class="left"></div>
+            <div class="right"></div>
+          </div>
+        
+          <div class="items font-Satoshi">
+            <div class="w-[350px] h-[295px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+              <div class="h-[290px] rounded-[16px] bg-[#171B3F] opacity-90">
+                  <div class="flex items-center gap-4 pl-4 pt-4">
+                      <img src="../../assets//images/imageCarusel/1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+                      <div class="text-white">
+                          <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.one.one')}}</h2>
+                          <p class="text-[12px]">{{$t('translation.homeviewthree.card.one.two')}}</p>
+                      </div>
+                  </div>
+                  <div class="text-white mt-[24px]">
+                      <p class="text-[16px] px-4">{{$t('translation.homeviewthree.card.one.three')}}</p>
+                  </div>
+              </div>
+          </div>
+          <div class="w-[350px] h-[295px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+            <div class="h-[290px] rounded-[16px] bg-[#171B3F] opacity-90">
+                <div class="flex items-center gap-4 pl-3 pt-3">
+                    <img src="../../assets//images/imageCarusel/2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+                    <div class="text-white">
+                        <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.two.one')}}</h2>
+                        <p class="text-[12px]">{{$t('translation.homeviewthree.card.two.two')}}</p>
+                    </div>
+                </div>
+                <div class="text-white mt-[24px]">
+                    <p class="text-[16px] px-8">{{$t('translation.homeviewthree.card.two.three')}}</p>
+                </div>
+            </div>
+        </div>
         <div class="w-[350px] h-[295px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
           <div class="h-[290px] rounded-[16px] bg-[#171B3F] opacity-90">
-              <div class="flex items-center gap-4 pl-4 pt-4">
-                  <img src="../../assets//images/imageCarusel/1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+              <div class="flex items-center gap-4 pl-3 pt-3">
+                  <img src="../../assets//images/imageCarusel/3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
                   <div class="text-white">
-                      <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.one.one')}}</h2>
-                      <p class="text-[12px]">{{$t('translation.homeviewthree.card.one.two')}}</p>
+                      <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.three.one')}}</h2>
+                      <p class="text-[12px]">{{$t('translation.homeviewthree.card.three.two')}}</p>
                   </div>
               </div>
               <div class="text-white mt-[24px]">
-                  <p class="text-[16px] px-4">{{$t('translation.homeviewthree.card.one.three')}}</p>
+                  <p class="text-[16px] px-8">{{$t('translation.homeviewthree.card.three.three')}}</p>
               </div>
           </div>
       </div>
       <div class="w-[350px] h-[295px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
         <div class="h-[290px] rounded-[16px] bg-[#171B3F] opacity-90">
-            <div class="flex items-center gap-4 pl-3 pt-3">
-                <img src="../../assets//images/imageCarusel/2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+            <div class="flex items-center gap-4 pl-4 pt-4">
+                <img src="../../assets//images/imageCarusel/1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
                 <div class="text-white">
-                    <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.two.one')}}</h2>
-                    <p class="text-[12px]">{{$t('translation.homeviewthree.card.two.two')}}</p>
+                    <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.one.one')}}</h2>
+                    <p class="text-[12px]">{{$t('translation.homeviewthree.card.one.two')}}</p>
                 </div>
             </div>
             <div class="text-white mt-[24px]">
-                <p class="text-[16px] px-8">{{$t('translation.homeviewthree.card.two.three')}}</p>
+                <p class="text-[16px] px-4">{{$t('translation.homeviewthree.card.one.three')}}</p>
             </div>
         </div>
     </div>
     <div class="w-[350px] h-[295px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
       <div class="h-[290px] rounded-[16px] bg-[#171B3F] opacity-90">
           <div class="flex items-center gap-4 pl-3 pt-3">
-              <img src="../../assets//images/imageCarusel/3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+              <img src="../../assets//images/imageCarusel/2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
               <div class="text-white">
-                  <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.three.one')}}</h2>
-                  <p class="text-[12px]">{{$t('translation.homeviewthree.card.three.two')}}</p>
+                  <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.two.one')}}</h2>
+                  <p class="text-[12px]">{{$t('translation.homeviewthree.card.two.two')}}</p>
               </div>
           </div>
           <div class="text-white mt-[24px]">
-              <p class="text-[16px] px-8">{{$t('translation.homeviewthree.card.three.three')}}</p>
+              <p class="text-[16px] px-8">{{$t('translation.homeviewthree.card.two.three')}}</p>
           </div>
       </div>
-  </div>
-  <div class="w-[350px] h-[295px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
-    <div class="h-[290px] rounded-[16px] bg-[#171B3F] opacity-90">
-        <div class="flex items-center gap-4 pl-4 pt-4">
-            <img src="../../assets//images/imageCarusel/1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+    </div>
+    <div class="w-[350px] h-[295px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+    <div class="h-[26975] rounded-[16px] bg-[#171B3F] opacity-90">
+        <div class="flex items-center gap-4 pl-3 pt-3">
+            <img src="../../assets//images/imageCarusel/3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
             <div class="text-white">
-                <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.one.one')}}</h2>
-                <p class="text-[12px]">{{$t('translation.homeviewthree.card.one.two')}}</p>
+                <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.three.one')}}</h2>
+                <p class="text-[12px]">{{$t('translation.homeviewthree.card.three.two')}}</p>
             </div>
         </div>
         <div class="text-white mt-[24px]">
-            <p class="text-[16px] px-4">{{$t('translation.homeviewthree.card.one.three')}}</p>
+            <p class="text-[16px] px-8">{{$t('translation.homeviewthree.card.three.three')}}</p>
         </div>
     </div>
-</div>
-<div class="w-[350px] h-[295px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
-  <div class="h-[290px] rounded-[16px] bg-[#171B3F] opacity-90">
-      <div class="flex items-center gap-4 pl-3 pt-3">
-          <img src="../../assets//images/imageCarusel/2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
-          <div class="text-white">
-              <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.two.one')}}</h2>
-              <p class="text-[12px]">{{$t('translation.homeviewthree.card.two.two')}}</p>
+    </div>
           </div>
-      </div>
-      <div class="text-white mt-[24px]">
-          <p class="text-[16px] px-8">{{$t('translation.homeviewthree.card.two.three')}}</p>
-      </div>
-  </div>
-</div>
-<div class="w-[350px] h-[295px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
-<div class="h-[26975] rounded-[16px] bg-[#171B3F] opacity-90">
-    <div class="flex items-center gap-4 pl-3 pt-3">
-        <img src="../../assets//images/imageCarusel/3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
-        <div class="text-white">
-            <h2 class="text-[16px] font-[700]">{{$t('translation.homeviewthree.card.three.one')}}</h2>
-            <p class="text-[12px]">{{$t('translation.homeviewthree.card.three.two')}}</p>
         </div>
-    </div>
-    <div class="text-white mt-[24px]">
-        <p class="text-[16px] px-8">{{$t('translation.homeviewthree.card.three.three')}}</p>
-    </div>
-</div>
-</div>
-      </div>
-    </div>
-    </template>
+</template>
     
     <script setup>
     
