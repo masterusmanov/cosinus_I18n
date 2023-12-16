@@ -13,6 +13,8 @@
       <HomeviewOne/>
       <SpecEffect/>
       <p class="text-[21px] text-center text-white font-[500] mt-[120px] md:mt-[176px] lg:mt-[260px] font-Satoshi">{{$t('translation.homeview.four')}}</p>
+    </div>
+    <div class="container mx-auto">
       <HomeviewOnes class="mt-[50px]"/>
       <HomeviewTwo class=""/>
       <HomeviewThree/>

@@ -8,14 +8,14 @@
     <img src="../../assets/images/speceffect/polborder3.png" alt="" class="hidden lg:flex w-[150px] h-[135px] absolute mt-[320px]">
     <div class="mt-[64px] md:mt-[96px] lg:mt-[128px]">
         <ImageCarusel class="md:hidden"/>
-        <ImageCaruselTwo class="hidden md:block  lg:hidden"/>
+        <!-- <ImageCaruselTwo class="hidden md:block  lg:hidden"/> -->
         <ImageCaruselThree class="hidden lg:flex"/>
     </div>
 </template>
 
 <script setup>
     import ImageCarusel from './ImageCarusel.vue';
-    import ImageCaruselTwo from './ImageCaruselTwo.vue';
+    // import ImageCaruselTwo from './ImageCaruselTwo.vue';
     import ImageCaruselThree from './ImageCaruselThree.vue';
 </script>
 

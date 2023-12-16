@@ -68,6 +68,7 @@
     .container {
       width: 100%;
       position: relative;
+      overflow-x: hidden;
     }
     
     .items {
@@ -75,12 +76,11 @@
       align-items: center;
       width: fit-content;
       width: max-content;
-      animation: carouselAnim 20s infinite alternate linear;
-      overflow-x: hidden;
+      animation: carouselAnim 60s infinite alternate linear;
     }
     
     .entry {
-      display: flex;
+      display: flex;  
       align-items: center;
       flex-direction: column;
       position: relative;
@@ -91,15 +91,15 @@
     
     @media only screen and (max-width: 768px) {
       .items {
-        animation: carouselAnim 20s infinite alternate linear;
+        animation: carouselAnim 60s infinite alternate linear;
       }
       
       @keyframes carouselAnim {
         from {
-          transform: translate(0, 0);
+          transform: translate(-100%);
         }
         to {
-          transform: translate(calc(-100% + (2 * 300px)));
+          transform: translate(100%);
         }
       }
     }
@@ -115,10 +115,10 @@
     
     @keyframes carouselAnim {
       from {
-        transform: translate(0, 0);
+        transform: translate(-100%);
       }
       to {
-        transform: translate(calc(-100% + (5 * 300px)));
+        transform: translate(calc(100%));
       }
     }
     
