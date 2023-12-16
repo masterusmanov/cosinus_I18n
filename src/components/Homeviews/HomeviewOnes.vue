@@ -1,9 +1,9 @@
 <template>
     <div class="container">
-      <div class="faders">
+      <!-- <div class="faders">
         <div class="left"></div>
         <div class="right"></div>
-      </div>
+      </div> -->
     
       <div class="items ">
         <div class="entry">
@@ -76,6 +76,8 @@
       width: fit-content;
       width: max-content;
       animation: carouselAnim 60s infinite alternate linear;
+      overflow-x: auto;
+
     }
     
     .entry {
@@ -91,8 +93,7 @@
     @media only screen and (max-width: 768px) {
       .items {
         animation: carouselAnim 60s infinite alternate linear;
-        overflow-x: hidden;
-
+        overflow-x: auto;
       }
       
       @keyframes carouselAnim {
