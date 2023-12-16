@@ -95,7 +95,5 @@
 </script>
 
 <style lang="scss" scoped>
-    body{
-        overflow-x: hidden;
-    }
+   
 </style>
