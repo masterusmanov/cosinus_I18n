@@ -1,11 +1,11 @@
 <template>
-    <div class="container">
+    <!-- <div class="container"> -->
       <!-- <div class="faders">
         <div class="left"></div>
         <div class="right"></div>
       </div> -->
     
-      <div class="items ">
+      <!-- <div class="items ">
         <div class="entry">
           <img src="../../assets/images/brand/0.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
         </div>
@@ -46,6 +46,26 @@
           <img src="../../assets/images/brand/12.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
         </div>
       </div>
+    </div> -->
+    <div class="container">
+      <marquee behavior="" direction="" class="flex items-center ">
+        <div class="flex items-center gap-[100px]">
+          <img src="../../assets/images/brand/0.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/1.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/2.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/3.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/4.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/5.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/6.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/7.svg" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/8.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/9.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/10.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/11.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+          <img src="../../assets/images/brand/12.png" alt="Smiling person" class="w-[120px] h-[48px] md:w-[120px] md:h-[64px] lg:w-[250px] lg:h-[100px] 2xl:w-[300px] 2xl:h-[70px]"/>
+        </div>
+      </marquee>
+      
     </div>
 
   </template>
